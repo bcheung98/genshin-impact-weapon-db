@@ -1,0 +1,1 @@
+# genshin-impact-weapon-db
