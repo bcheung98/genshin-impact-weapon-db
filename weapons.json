@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "name": "",
+        "type": "",
+        "rarity": 0,
+        "stats": {
+            "baseATK": [],
+            "secondaryStat": "",
+            "secondaryStatScaling": [],
+            "passive": ""
+        },
+        "materials": {
+            "ascensionMaterial": "",
+            "eliteMat": "",
+            "commonMat": ""
+        }
+    }
+]
